@@ -264,13 +264,13 @@ h1,h2,h3,h4,h5
         padding: 15px 0;
 		color: #D43F52;
     }
-#about .progress
+#about .progress-2
     {
         border-radius: 4px;
         background: #ffffff;
         height: 4px;
     }
-#about .progress .progress-bar-danger
+#about .progress-2 .progress-bar-danger
     {
         background: #D43F52;
     }
